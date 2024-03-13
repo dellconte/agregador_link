@@ -6,11 +6,6 @@ Para utilizar como cartão de visitas onlinelinks, promovido pela Rocketseat par
 </p>
 
 <p align="center">
-  <img alt="projeto" src=".github/agregador_link/assets/img_01.png" width="100%">
-</p>
-
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
