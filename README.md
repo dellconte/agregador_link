@@ -9,11 +9,6 @@
   <img alt="Agregador_01" src="assets/agregador_link_01.png" width="50%">
 </p>
 
-
-<p>
-  <img alt=Agregador_01" src="assets/agregador_link_02.png" width="50%>
-</p>
-
 ## Tecnologias
 - HTML e CSS
 - JavaScript
