@@ -11,7 +11,7 @@
 
 
 <p>
-  <img alt=Agregador_01" src=ässets/agregador_link_02.png"width="50%>
+  <img alt=Agregador_01" src="assets/agregador_link_02.png" width="50%>
 </p>
 
 ## Tecnologias
