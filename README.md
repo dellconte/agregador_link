@@ -6,8 +6,12 @@
 <br>
 
 <p align="center">
-  <img alt="Calculator" src="assets/agregador_link_01.png" width="50%">
-  <img alt=Calculator" src=ässets/agregador_link_02.png"width="50%>
+  <img alt="Agregador_01" src="assets/agregador_link_01.png" width="50%">
+</p>
+
+
+<p>
+  <img alt=Agregador_01" src=ässets/agregador_link_02.png"width="50%>
 </p>
 
 ## Tecnologias
